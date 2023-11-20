@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+	<key>3828</key>
+	<dict>
+		<key>Track ID</key><integer>3828</integer>
+		<key>Name</key><string>Cakes</string>
+		<key>Artist</key><string>Homecomings</string>
+		<key>Album Artist</key><string>Homecomings</string>
+		<key>Composer</key><string>Ayaka Tatamino</string>
+		<key>Album</key><string>Cakes - EP</string>
+		<key>Genre</key><string>Rock</string>
+		<key>Kind</key><string>Apple Music AACオーディオファイル</string>
+		<key>Size</key><integer>9981529</integer>
+		<key>Total Time</key><integer>292270</integer>
+		<key>Disc Number</key><integer>1</integer>
+		<key>Disc Count</key><integer>1</integer>
+		<key>Track Number</key><integer>1</integer>
+		<key>Track Count</key><integer>4</integer>
+		<key>Year</key><integer>2019</integer>
+		<key>Date Modified</key><date>2019-05-01T05:57:21Z</date>
+		<key>Date Added</key><date>2019-05-01T05:57:21Z</date>
+		<key>Bit Rate</key><integer>256</integer>
+		<key>Sample Rate</key><integer>44100</integer>
+		<key>Play Count</key><integer>12</integer>
+		<key>Play Date</key><integer>3722414283</integer>
+		<key>Play Date UTC</key><date>2021-12-15T02:58:03Z</date>
+		<key>Release Date</key><date>2019-04-17T12:00:00Z</date>
+		<key>Normalization</key><integer>3438</integer>
+		<key>Artwork Count</key><integer>1</integer>
+		<key>Sort Album</key><string>けいくす</string>
+		<key>Sort Artist</key><string>ほーむかみんぐす</string>
+		<key>Sort Name</key><string>けいくす</string>
+		<key>Persistent ID</key><string>DE9A16007790ED1F</string>
+		<key>Track Type</key><string>Remote</string>
+		<key>Apple Music</key><true/>
+	</dict>
+	<key>3830</key>
+	<dict>
+		<key>Track ID</key><integer>3830</integer>
+		<key>Name</key><string>Moving Day Part1</string>
+		<key>Artist</key><string>Homecomings</string>
+		<key>Album Artist</key><string>Homecomings</string>
+		<key>Composer</key><string>Ayaka Tatamino</string>
+		<key>Album</key><string>Cakes - EP</string>
+		<key>Genre</key><string>Rock</string>
+		<key>Kind</key><string>Apple Music AACオーディオファイル</string>
+		<key>Size</key><integer>7588601</integer>
+		<key>Total Time</key><integer>215244</integer>
+		<key>Disc Number</key><integer>1</integer>
+		<key>Disc Count</key><integer>1</integer>
+		<key>Track Number</key><integer>2</integer>
+		<key>Track Count</key><integer>4</integer>
+		<key>Year</key><integer>2019</integer>
+		<key>Date Modified</key><date>2019-05-01T05:57:21Z</date>
+		<key>Date Added</key><date>2019-05-01T05:57:21Z</date>
+		<key>Bit Rate</key><integer>256</integer>
+		<key>Sample Rate</key><integer>44100</integer>
+		<key>Play Count</key><integer>13</integer>
+		<key>Play Date</key><integer>3742514882</integer>
+		<key>Play Date UTC</key><date>2022-08-04T18:28:02Z</date>
+		<key>Skip Count</key><integer>3</integer>
+		<key>Skip Date</key><date>2019-09-27T05:37:26Z</date>
+		<key>Release Date</key><date>2019-04-17T12:00:00Z</date>
+		<key>Normalization</key><integer>1262</integer>
+		<key>Artwork Count</key><integer>1</integer>
+		<key>Sort Album</key><string>けいくす</string>
+		<key>Sort Artist</key><string>ほーむかみんぐす</string>
+		<key>Sort Name</key><string>むーびんぐ でい ぱーとわん</string>
+		<key>Persistent ID</key><string>75729FCBB4B5F902</string>
+		<key>Track Type</key><string>Remote</string>
+		<key>Apple Music</key><true/>
+	</dict>
+	<key>3832</key>
+	<dict>
+		<key>Track ID</key><integer>3832</integer>
+		<key>Name</key><string>Cakes 立春MIX Remixed by 曽我部恵一</string>
+		<key>Artist</key><string>Homecomings</string>
+		<key>Album Artist</key><string>Homecomings</string>
+		<key>Composer</key><string>Ayaka Tatamino</string>
+		<key>Album</key><string>Cakes - EP</string>
+		<key>Genre</key><string>Rock</string>
+		<key>Kind</key><string>Apple Music AACオーディオファイル</string>
+		<key>Size</key><integer>10621116</integer>
+		<key>Total Time</key><integer>294346</integer>
+		<key>Disc Number</key><integer>1</integer>
+		<key>Disc Count</key><integer>1</integer>
+		<key>Track Number</key><integer>3</integer>
+		<key>Track Count</key><integer>4</integer>
+		<key>Year</key><integer>2019</integer>
+		<key>Date Modified</key><date>2019-05-01T05:57:21Z</date>
+		<key>Date Added</key><date>2019-05-01T05:57:21Z</date>
+		<key>Bit Rate</key><integer>256</integer>
+		<key>Sample Rate</key><integer>44100</integer>
+		<key>Play Count</key><integer>17</integer>
+		<key>Play Date</key><integer>3744857962</integer>
+		<key>Play Date UTC</key><date>2022-08-31T21:19:22Z</date>
+		<key>Skip Count</key><integer>2</integer>
+		<key>Skip Date</key><date>2019-07-05T12:36:05Z</date>
+		<key>Release Date</key><date>2019-04-17T12:00:00Z</date>
+		<key>Artwork Count</key><integer>1</integer>
+		<key>Sort Album</key><string>けいくす</string>
+		<key>Sort Artist</key><string>ほーむかみんぐす</string>
+		<key>Sort Name</key><string>けいくす りっしゅんみっくす りみっくすど ばい そかべけいいち</string>
+		<key>Persistent ID</key><string>57DCBB31347D67FE</string>
+		<key>Track Type</key><string>Remote</string>
+		<key>Apple Music</key><true/>
+	</dict>
+</dict>
